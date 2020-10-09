@@ -8,7 +8,12 @@ body {
 
 h1 {
     text-transform: uppercase;
-    font-size:26px; margin: 20px; background-color:rgba(250, 250, 250, 0.5); padding:15px; border-radius: 20px; color:black;
+    font-size:26px;
+    margin: 20px;
+    background-color:rgba(250, 250, 250, 0.5);
+    padding:15px;
+    border-radius: 20px;
+    color:black;
 }
 
 .main-container {
